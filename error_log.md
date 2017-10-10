@@ -23,5 +23,8 @@
 기능 이외의 요소 변경 필요
 Visual Studio에서는 다음 프로젝트를 Visual Studio 2015, Visual Studio 2013, Visual Studio 2012 및 Visual Studio 2010 SP1에서 열 수 있도록 해당 프로젝트의 기능 이외 요소를 자동으로 변경합니다. 프로젝트 동작에는 영향이 없습니다.
 	 - ButtonXaml, "C:\Users\kmju1\Source\Repos\Buttonxml\ButtonXaml.sln"
+	 
+	 
+CS0234	'Xamarin.Forms.Platform' 네임스페이스에 'Android' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.	ButtonXaml.Android	C:\Users\kmju1\Source\Repos\Buttonxml\ButtonXaml\ButtonXaml.Android\MainActivity.cs	
 
 
